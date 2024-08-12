@@ -1,4 +1,12 @@
-html{
+
+@font-face {
+    font-family: "malgun";
+    src: url("font/malgun.woff") format("woff");
+
+}
+
+html, body{
     width: 100%;
     height: fit-content;
+    font-family: "malgun";
 }
