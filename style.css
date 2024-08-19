@@ -8,5 +8,6 @@
 html, body{
     width: 100%;
     height: fit-content;
-    font-family: "malgun";
+    /* font-family: "malgun"; */
+    font-family: 'Spoqa Han Sans Neo', 'sans-serif';
 }
